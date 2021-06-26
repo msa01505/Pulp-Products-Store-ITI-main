@@ -1,0 +1,44 @@
+﻿@model Pulp.Models.Review
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+    <h1 class="text-center m-5 " style="color: #7BB38E
+">Details</h1>
+
+    <div>
+        <h4 class="text-center m-5 " style="color: #7BB38E
+">Review</h4>
+        <dl class="col-6 m-auto rounded-lg shadow p-3">
+            <dt class="col-12 text-center p-1 text-secondary">
+                @Html.DisplayNameFor(model => model.Rating)
+            </dt>
+            <dd class="col-12 text-center p-1 text-secondary">
+                @Html.DisplayFor(model => model.Rating)
+            </dd>
+            <dt class="col-12 text-center p-1 text-secondary">
+                @Html.DisplayNameFor(model => model.Comment)
+            </dt>
+            <dd class="col-sm-12 text-center p-1 text-secondary">
+                @Html.DisplayFor(model => model.Comment)
+            </dd>
+            <dd>
+
+                <div class="m-auto text-center">
+                    @if (ViewBag.currBuyer == Model.BuyerID)
+                    {
+                        <a asp-action="Edit" asp-route-id="@Model.ReviewID" class="btn btn-outline-success ">Edit</a>
+                    }
+                <a asp-action="Index" class=" btn btn-outline-success" style="color:#7BB38E">Back to List</a>
+                </div>
+
+            </dd>
+        </dl>
+    </div>
+    <div>
+    </div>
+
+</div>
+

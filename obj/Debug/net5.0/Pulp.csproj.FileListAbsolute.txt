@@ -1,0 +1,1334 @@
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.csprojAssemblyReference.cache
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.AssemblyInfoInputs.cache
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.AssemblyInfo.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.csproj.CoreCompileInputs.cache
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.RazorAssemblyInfo.cache
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.RazorAssemblyInfo.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\staticwebassets\Pulp.StaticWebAssets.Manifest.cache
+D:\ASP-RestaurantProject\obj\Debug\net5.0\staticwebassets\Pulp.StaticWebAssets.xml
+D:\ASP-RestaurantProject\obj\Debug\net5.0\scopedcss\bundle\Pulp.styles.css
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.TagHelpers.input.cache
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.TagHelpers.output.cache
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.RazorCoreGenerate.cache
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Admin\CreateRole.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Admin\EditRole.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Admin\ListRoles.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Businesses\Create.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Businesses\Delete.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Businesses\Details.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Businesses\Edit.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Businesses\Index.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Buyers\ConfirmOrder.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Buyers\Create.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Buyers\Delete.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Buyers\Details.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Buyers\Edit.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Buyers\Index.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Create.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Delete.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Details.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Edit.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Index.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Create.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Delete.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Details.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Edit.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Index.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\OrderItems\Create.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\OrderItems\Delete.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\OrderItems\Details.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\OrderItems\Edit.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\OrderItems\Index.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Orders\Delete.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Orders\Details.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Orders\Edit.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Reviews\Create.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Reviews\Delete.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Reviews\Details.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Reviews\Edit.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.RazorTargetAssemblyInfo.cache
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.RazorTargetAssemblyInfo.cs
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.dll
+D:\ASP-RestaurantProject\obj\Debug\net5.0\ref\Pulp.dll
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.pdb
+D:\ASP-RestaurantProject\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP-RestaurantProject\bin\Debug\net5.0\appsettings.json
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Pulp.StaticWebAssets.xml
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Pulp.exe
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Pulp.deps.json
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Pulp.runtimeconfig.json
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Pulp.runtimeconfig.dev.json
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Pulp.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ref\Pulp.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Pulp.pdb
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Pulp.Views.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Pulp.Views.pdb
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Humanizer.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\Stripe.net.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP-RestaurantProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.Views.pdb
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.csproj.CopyComplete
+D:\ASP-RestaurantProject\obj\Debug\net5.0\Pulp.genruntimeconfig.cache
+D:\ASP-PulpProject\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP-PulpProject\bin\Debug\net5.0\appsettings.json
+D:\ASP-PulpProject\bin\Debug\net5.0\Pulp.StaticWebAssets.xml
+D:\ASP-PulpProject\bin\Debug\net5.0\Pulp.exe
+D:\ASP-PulpProject\bin\Debug\net5.0\Pulp.deps.json
+D:\ASP-PulpProject\bin\Debug\net5.0\Pulp.runtimeconfig.json
+D:\ASP-PulpProject\bin\Debug\net5.0\Pulp.runtimeconfig.dev.json
+D:\ASP-PulpProject\bin\Debug\net5.0\Pulp.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ref\Pulp.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Pulp.pdb
+D:\ASP-PulpProject\bin\Debug\net5.0\Pulp.Views.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Pulp.Views.pdb
+D:\ASP-PulpProject\bin\Debug\net5.0\Humanizer.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\Stripe.net.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.csprojAssemblyReference.cache
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.AssemblyInfoInputs.cache
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.AssemblyInfo.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.csproj.CoreCompileInputs.cache
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorAssemblyInfo.cache
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorAssemblyInfo.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\staticwebassets\Pulp.StaticWebAssets.Manifest.cache
+D:\ASP-PulpProject\obj\Debug\net5.0\staticwebassets\Pulp.StaticWebAssets.xml
+D:\ASP-PulpProject\obj\Debug\net5.0\scopedcss\bundle\Pulp.styles.css
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.TagHelpers.input.cache
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.TagHelpers.output.cache
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorCoreGenerate.cache
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\CreateRole.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\EditRole.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\ListRoles.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Create.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Delete.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Details.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Edit.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Index.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\ConfirmOrder.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Create.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Delete.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Details.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Edit.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Index.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Create.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Delete.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Details.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Edit.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Index.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Create.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Delete.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Details.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Edit.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Index.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Create.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Delete.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Details.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Edit.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Index.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Delete.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Details.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Edit.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Create.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Delete.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Details.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Edit.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorTargetAssemblyInfo.cache
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorTargetAssemblyInfo.cs
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.Views.pdb
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.csproj.CopyComplete
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.dll
+D:\ASP-PulpProject\obj\Debug\net5.0\ref\Pulp.dll
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.pdb
+D:\ASP-PulpProject\obj\Debug\net5.0\Pulp.genruntimeconfig.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.AssemblyInfoInputs.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.AssemblyInfo.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.csproj.CoreCompileInputs.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorAssemblyInfo.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorAssemblyInfo.cs
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\appsettings.Development.json
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\appsettings.json
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.StaticWebAssets.xml
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.exe
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.deps.json
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.runtimeconfig.json
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.runtimeconfig.dev.json
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ref\Pulp.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.pdb
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.Views.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.Views.pdb
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Humanizer.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Stripe.net.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\staticwebassets\Pulp.StaticWebAssets.Manifest.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\staticwebassets\Pulp.StaticWebAssets.xml
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\scopedcss\bundle\Pulp.styles.css
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.TagHelpers.input.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.TagHelpers.output.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorCoreGenerate.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\CreateRole.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\EditRole.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\ListRoles.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Create.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Delete.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Details.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Edit.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Index.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\ConfirmOrder.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Create.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Delete.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Details.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Edit.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Index.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Create.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Delete.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Details.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Edit.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Index.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Create.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Delete.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Details.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Edit.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Index.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Create.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Delete.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Details.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Edit.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Index.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Delete.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Details.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Edit.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Create.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Delete.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Details.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Edit.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorTargetAssemblyInfo.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorTargetAssemblyInfo.cs
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.Views.pdb
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.csproj.CopyComplete
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.dll
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\ref\Pulp.dll
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.pdb
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.genruntimeconfig.cache
+E:\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.csproj.AssemblyReference.cache
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.AssemblyInfoInputs.cache
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.AssemblyInfo.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.csproj.CoreCompileInputs.cache
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.MvcApplicationPartsAssemblyInfo.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.MvcApplicationPartsAssemblyInfo.cache
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorAssemblyInfo.cache
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorAssemblyInfo.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\staticwebassets\Pulp.StaticWebAssets.Manifest.cache
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\staticwebassets\Pulp.StaticWebAssets.xml
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\scopedcss\bundle\Pulp.styles.css
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.TagHelpers.input.cache
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.TagHelpers.output.cache
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorCoreGenerate.cache
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\CreateRole.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\EditRole.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\ListRoles.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Create.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Delete.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Details.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Edit.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Index.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\ConfirmOrder.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Create.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Delete.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Details.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Edit.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Index.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Create.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Delete.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Details.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Edit.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Index.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Create.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Delete.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Details.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Edit.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Index.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Create.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Delete.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Details.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Edit.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Index.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Delete.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Details.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Edit.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Create.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Delete.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Details.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Edit.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorTargetAssemblyInfo.cache
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorTargetAssemblyInfo.cs
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\ref\Pulp.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.pdb
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\appsettings.Development.json
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\appsettings.json
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.StaticWebAssets.xml
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.exe
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.deps.json
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.runtimeconfig.json
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.runtimeconfig.dev.json
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ref\Pulp.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.pdb
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.Views.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Pulp.Views.pdb
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Humanizer.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\Stripe.net.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.Views.pdb
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.csproj.CopyComplete
+E:\Career\ITI\Graduation Project\Pulp - Backend - Backup\ASP-PulpProject\ASP-PulpProject\obj\Debug\net5.0\Pulp.genruntimeconfig.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.csprojAssemblyReference.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.AssemblyInfoInputs.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.AssemblyInfo.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.csproj.CoreCompileInputs.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.MvcApplicationPartsAssemblyInfo.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.MvcApplicationPartsAssemblyInfo.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorAssemblyInfo.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorAssemblyInfo.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\staticwebassets\Pulp.StaticWebAssets.Manifest.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\staticwebassets\Pulp.StaticWebAssets.xml
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\scopedcss\bundle\Pulp.styles.css
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.TagHelpers.input.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.TagHelpers.output.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorCoreGenerate.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\CreateRole.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\EditRole.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Admin\ListRoles.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Create.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Delete.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Details.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Edit.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Businesses\Index.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\ConfirmOrder.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Create.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Delete.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Details.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Edit.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Buyers\Index.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Create.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Delete.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Details.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Edit.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryItems\Index.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Create.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Delete.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Details.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Edit.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\CategoryTypes\Index.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Create.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Delete.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Details.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Edit.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\OrderItems\Index.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Delete.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Details.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Edit.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Create.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Delete.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Details.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Edit.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorTargetAssemblyInfo.cache
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.RazorTargetAssemblyInfo.cs
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\ref\Pulp.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.pdb
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\appsettings.Development.json
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\appsettings.json
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Pulp.StaticWebAssets.xml
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Pulp.exe
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Pulp.deps.json
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Pulp.runtimeconfig.json
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Pulp.runtimeconfig.dev.json
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Pulp.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ref\Pulp.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Pulp.pdb
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Pulp.Views.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Pulp.Views.pdb
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Humanizer.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\Stripe.net.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.Views.pdb
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.csproj.CopyComplete
+E:\SD\MVC\Project\Pulp\ASP-PulpProject\obj\Debug\net5.0\Pulp.genruntimeconfig.cache

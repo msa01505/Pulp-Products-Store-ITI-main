@@ -1,0 +1,41 @@
+﻿@model Pulp.Models.CategoryType
+@using Microsoft.AspNetCore.Identity
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <h1 class="btn col-12 m-auto font-weight-bold" style="color: #7BB38E;font-size:xx-large; font-family:'Times New Roman', Times, serif">Details</h1>
+    <div class="row">
+        <div class="col-md-6 m-auto">
+            <div>
+                @*<h4>CategoryType</h4>*@
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Type)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Type)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Business)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Business.Describtion)
+                    </dd>
+                </dl>
+            </div>
+            <div>
+                @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                {
+                    <a asp-action="Edit" asp-route-id="@Model.CatrgoryTypeID" class="btn btn-primary">Edit</a>
+
+                }
+                |<a asp-action="Index" style="color: #7BB38E;">Back to List</a>
+            </div>
+
+        </div>
+        </div>
+</div>

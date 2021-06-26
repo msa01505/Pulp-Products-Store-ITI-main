@@ -1,0 +1,40 @@
+﻿@model Pulp.Models.Order
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <h1 class="text-center" style="color: #7BB38E">Delete</h1>
+
+    <h3 class="text-center" style="color: #7BB38E">Are you sure you want to delete this Order?</h3>
+    <div>
+        <dl class="col-6 m-auto rounded-lg shadow p-5">
+            <dt class="col-12 text-center p-2">
+                @Html.DisplayNameFor(model => model.Buyer)
+            </dt>
+            <dd class="col-12 text-center p-2">
+                @Html.DisplayFor(model => model.Buyer.PictureUri)
+            </dd>
+            <dt class="col-12 text-center p-2">
+                @Html.DisplayNameFor(model => model.OrderDate)
+            </dt>
+            <dd class="col-sm-12 text-center p-2">
+                @Html.DisplayFor(model => model.OrderDate)
+            </dd>
+            <dd>
+                <div class="form-group">
+                    <input type="submit" value="Delete" class="btn col-12 m-auto text-light btn-danger" />
+                </div>
+                <div class="m-auto text-center">
+                    <a asp-action="Index" class="text-center col-12 text-secondary">Back to List</a>
+                </div>
+            </dd>
+
+        </dl>
+
+        
+    </div>
+
+</div>
+
