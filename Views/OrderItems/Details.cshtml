@@ -1,0 +1,43 @@
+﻿@model Pulp.Models.OrderItem
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <h1>Details</h1>
+
+    <div>
+        <h4  class="text-center m-5 " style="color: #7BB38E
+">OrderItem</h4>
+        <dl class="col-6 m-auto rounded-lg shadow p-3">
+            <dt class="col-12 text-center p-1 text-secondary" >
+                @Html.DisplayNameFor(model => model.ItemOrdered)
+            </dt>
+            <dd class="col-12 text-center p-1 text-secondary">
+                @Html.DisplayFor(model => model.ItemOrdered.Description)
+            </dd>
+            <dt class="col-12 text-center p-1 text-secondary">
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+            <dd class="col-12 text-center p-1 text-secondary">
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+            <dt class="col-12 text-center p-1 text-secondary">
+                @Html.DisplayNameFor(model => model.Units)
+            </dt>
+            <dd class="col-12 text-center p-1 text-secondary">
+                @Html.DisplayFor(model => model.Units)
+            </dd>
+            <dd>
+                <div class="m-auto text-center">
+                    <a asp-action="Edit" asp-route-id="@Model.OrderItemID" class="btn btn-outline-success ">Edit</a> |
+                    <a asp-action="Index" style="color:#7BB38E">Back to List</a>
+                </div>
+
+            </dd>
+        </dl>
+    </div>
+
+</div>
