@@ -103,23 +103,30 @@ namespace Pulp.Controllers
         [HttpPost]
         public IActionResult Confirm(ConfirmOrder confirm)
         {
-            List<Models.Order> OrdersList = orderRepoService.GetAllOrdersOfUserID(confirm.buyer.UserID);
-            if (OrdersList != null)
+            try
             {
-                foreach (var item in OrdersList)
+                List<Models.Order> OrdersList = orderRepoService.GetAllOrdersOfUserID(confirm.buyer.UserID);
+                if (OrdersList != null)
                 {
-                    item.orderStatus = OrderStatus.Waiting;
-                    orderRepoService.UpdateOrder(item.OrderID, item);
+                    foreach (var item in OrdersList)
+                    {
+                        item.orderStatus = OrderStatus.Waiting;
+                        orderRepoService.UpdateOrder(item.OrderID, item);
 
+                    }
+
+
+
+                    return RedirectToAction("Index", "Orders", new { flag = 1 });
                 }
-
-
-
-                return RedirectToAction("Index", "Orders", new { flag = 1 });
+                else
+                {
+                    return RedirectToAction("Index", "Orders", new { flag = 0 });
+                }
             }
-            else
+            catch (Exception ex)
             {
-                return RedirectToAction("Index", "Orders", new { flag = 0 });
+                return RedirectToAction("ConfirmOrder", "Buyers", new { id = confirm.buyer.UserID });
             }
 
 
@@ -127,51 +134,57 @@ namespace Pulp.Controllers
         [HttpPost]
         public IActionResult Charge(string stripeEmail, string stripeToken, ConfirmOrder confirm)
         {
-            var customers = new CustomerService();
-            var charges = new ChargeService();
-
-
-
-            var customer = customers.Create(new CustomerCreateOptions
+            try
             {
-                Email = stripeEmail,
-                Source = stripeToken
-            });
-            long total = (long)confirm.total;
-            var charge = charges.Create(new ChargeCreateOptions
-            {
+                var customers = new CustomerService();
+                var charges = new ChargeService();
 
-                Amount = total,
-                Description = "Test payment",
-                Currency = "usd",
-                Customer = customer.Id,
-                ReceiptEmail = stripeEmail,
 
-            });
-            if (charge.Status == "succeeded")
-            {
-                string BalanceTransactionId = charge.BalanceTransactionId;
-                //update order status
-                List<Models.Order> OrdersList = orderRepoService.GetAllOrdersOfUserID(confirm.buyer.UserID);
-                if (OrdersList != null)
+
+                var customer = customers.Create(new CustomerCreateOptions
                 {
-                    foreach (var item in OrdersList)
+                    Email = stripeEmail,
+                    Source = stripeToken
+                });
+                long total = (long)confirm.total;
+                var charge = charges.Create(new ChargeCreateOptions
+                {
+
+                    Amount = total,
+                    Description = "Test payment",
+                    Currency = "usd",
+                    Customer = customer.Id,
+                    ReceiptEmail = stripeEmail,
+
+                });
+                if (charge.Status == "succeeded")
+                {
+                    string BalanceTransactionId = charge.BalanceTransactionId;
+                    //update order status
+                    List<Models.Order> OrdersList = orderRepoService.GetAllOrdersOfUserID(confirm.buyer.UserID);
+                    if (OrdersList != null)
                     {
-                        item.orderStatus = OrderStatus.WaitingPayed;
+                        foreach (var item in OrdersList)
+                        {
+                            item.orderStatus = OrderStatus.WaitingPayed;
 
-                        orderRepoService.UpdateOrder(item.OrderID, item);
+                            orderRepoService.UpdateOrder(item.OrderID, item);
+                        }
                     }
+                    return RedirectToAction("Index", "Orders", new { flag = 1 });
                 }
-                return RedirectToAction("Index", "Orders", new { flag = 1 });
+                else
+                {
+                    return RedirectToAction("Index", "Orders", new { flag = 0 });
+
+
+
+                }
             }
-            else
+            catch (Exception ex)
             {
-                return RedirectToAction("Index", "Orders", new { flag = 0 });
-
-
-
+                return RedirectToAction("ConfirmOrder", "Buyers", new { id = confirm.buyer.UserID });
             }
-
 
 
         }
