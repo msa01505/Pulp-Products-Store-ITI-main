@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Pulp.Models.CategoryItem>
+@using Microsoft.AspNetCore.Identity
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <h1 class="btn col-12 m-auto font-weight-bold" style="color: #7BB38E;font-size:xx-large; font-family:'Times New Roman', Times, serif">List Of CategoryItems</h1>
+    <div class="row">
+        <div class="btn col-12 m-auto font-weight-bold">
+            <a class="btn mb-3 font-weight-bold" style="width: auto; background-color: #7BB38E; color: white;"
+               asp-action="Create">Create New CategoryItems</a>
+        </div>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PictureUri)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CategoryType)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PictureUri)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryType.Type)
+                    </td>
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.CategoryItemID" class="btn btn-outline-primary btn-sm">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.CategoryItemID" class="btn btn-outline-success btn-sm">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.CategoryItemID" class="btn btn-outline-danger btn-sm">Delete</a>
+                        </td>
+                    }
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+

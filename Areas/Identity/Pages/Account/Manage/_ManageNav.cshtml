@@ -1,0 +1,16 @@
+﻿@inject SignInManager<PulpProjectUser> SignInManager
+@{
+    var hasExternalLogins = (await SignInManager.GetExternalAuthenticationSchemesAsync()).Any();
+}
+<ul class="nav nav-pills flex-column">
+    <li class="nav-item text-light m-1"><a class="nav-link  text-light @ManageNavPages.IndexNavClass(ViewContext)" id="profile" asp-page="./Index"class="text-light" style="        background-color: #7BB38E
+">Profile</a></li>
+    <li class="nav-item text-light m-1"><a class="nav-link text-light @ManageNavPages.EmailNavClass(ViewContext)" id="email" asp-page="./Email" style="background-color:#7BB38E">Email</a></li>
+    <li class="nav-item m-1"><a class="nav-link text-light @ManageNavPages.ChangePasswordNavClass(ViewContext)" id="change-password" asp-page="./ChangePassword"style="background-color:#7BB38E" >Password</a></li>
+    @if (hasExternalLogins)
+    {
+        <li id="external-logins m-1 ml-2" class="nav-item text-light"><a id="external-login" class="nav-link text-light ml-1 @ManageNavPages.ExternalLoginsNavClass(ViewContext)" asp-page="./ExternalLogins" style="background-color:#7BB38E">External logins</a></li>
+    }
+    <li class="nav-item text-light m-1"><a class="nav-link text-light @ManageNavPages.TwoFactorAuthenticationNavClass(ViewContext)" id="two-factor" asp-page="./TwoFactorAuthentication" style="background-color:#7BB38E">Two-factor authentication</a></li>
+    <li class="nav-item text-light m-1"><a class="nav-link text-light @ManageNavPages.PersonalDataNavClass(ViewContext)" id="personal-data" asp-page="./PersonalData" style="background-color:#7BB38E">Personal data</a></li>
+</ul>

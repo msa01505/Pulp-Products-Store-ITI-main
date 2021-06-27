@@ -1,0 +1,48 @@
+﻿@model Pulp.Models.OrderItem
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <h1 class="text-center" style="color: #7BB38E">Edit</h1>
+
+    <h4 class="text-center" style="color: #7BB38E">OrderItem</h4>
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="OrderItemID" />
+                <div class="col-6 m-auto shadow rounded p-5">
+
+                    <div class="form-group">
+                        <label asp-for="CategoryItemID" class="control-label"></label>
+                        <select asp-for="CategoryItemID" class="form-control" asp-items="ViewBag.CategoryItemID"></select>
+                        <span asp-validation-for="CategoryItemID" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Price" class="control-label"></label>
+                        <input asp-for="Price" class="form-control" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Units" class="control-label"></label>
+                        <input asp-for="Units" class="form-control" />
+                        <span asp-validation-for="Units" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn col-12 m-auto text-light" style="background-color: #7BB38E" />
+                    </div>
+                    <div class="m-auto text-center">
+                        <a asp-action="Index" class="text-center col-12 " style="color:#7BB38E">Back to List</a>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+    </div>
+
+    
+</div>
+
+
