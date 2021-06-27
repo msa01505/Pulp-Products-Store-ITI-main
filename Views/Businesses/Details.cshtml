@@ -1,4 +1,4 @@
-﻿@model Pulp.ViewModels.BusinessCategoryType 
+﻿@model Pulp.ViewModels.BusinessCategoryType
 @using Microsoft.AspNetCore.Identity
 
 @{
@@ -8,8 +8,6 @@
     body {
         font-size: 18px;
     }
-
-
 
     #myBtn {
         display: none;
@@ -26,14 +24,12 @@
         border-radius: 4px;
     }
 
-
-
         #myBtn:hover {
             background-color: #7BB38E;
         }
 </style>
-<button onclick="topFunction()" id="myBtn" class="btn btn-warning" style="background-color: #7BB38E"
- title="Go to top">
+<button onclick="topFunction()" id="myBtn" class="btn btn-success" style="background-color: #7BB38E"
+        title="Go to top">
     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="26" fill="white" class="bi bi-arrow-up-circle-fill" viewBox="0 0 16 16">
         <path d="M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0zm-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z" />
     </svg>
@@ -49,7 +45,7 @@
             <ul class="list-group list-group-horizontal">
                 @foreach (var item in Model.categoryTypes)
                 {
-                    <li class="list-unstyled list-group-item ml-2 btn btn-outline-sucess text-center"><a href="#@item.Type" class="text-decoration-none active ">@item.Type</a></li>
+                    <li class="list-unstyled list-group-item ml-2 btn btn-sucess text-center" style="background-color: #7BB38E"><a href="#@item.Type" class="text-decoration-none active text-light">@item.Type</a></li>
                 }
 
             </ul>
@@ -80,7 +76,7 @@
                                             @categoryItem.Price <span>E&pound;</span>
                                             @if (Model.business.BusinessID == Model.cartRest.BusinessID)
                                             {
-                                                @if ( !User.IsInRole("Admin"))
+                                                @if (!User.IsInRole("Admin"))
                                                 {
                                                     <a asp-controller="OrderItems" asp-action="Create" asp-route-id="@categoryItem.CategoryItemID" id="orderBtn" class="btn btn-info mx-4 "> Order Now</a>
 
@@ -90,7 +86,7 @@
                                             }
                                             else
                                             {
-                                                @if ( !User.IsInRole("Admin"))
+                                                @if (!User.IsInRole("Admin"))
                                                 {
                                                     <input type="button" onclick="info()" class="btn btn-outline-success" value="Order Now" />
                                                 }
@@ -148,7 +144,7 @@
                                                 @categoryItem.Price <span>E&pound;</span>
                                                 @if (Model.business.BusinessID == Model.cartRest.BusinessID)
                                                 {
-                                                    @if ( !User.IsInRole("Admin"))
+                                                    @if (!User.IsInRole("Admin"))
                                                     {
                                                         <a asp-controller="OrderItems" asp-action="Create" asp-route-id="@categoryItem.CategoryItemID" id="orderBtn" class="btn btn-info mx-4 "> Order Now</a>
 
@@ -157,7 +153,7 @@
                                                 }
                                                 else
                                                 {
-                                                    @if ( !User.IsInRole("Admin"))
+                                                    @if (!User.IsInRole("Admin"))
                                                     {
                                                         <input type="button" onclick="info()" class="btn btn-outline-success" value="Order Now" />
                                                     }
@@ -206,14 +202,14 @@
         <a class="btn btn-success" asp-controller="CategoryTypes" asp-action="Create" asp-route-id="@Model.business.BusinessID">Add Category</a>
 
     }
+    <a asp-action="Index" class=" text-light btn btn-sucess" style="background-color: #7BB38E">Back to List</a>
 
-    <a asp-action="Index" style="color:#7BB38E">Back to List</a>
+    @*<a asp-action="Index" style="color:#7BB38E">Back to List</a>*@
 </div>
 <script>
     function info() {
         alert("Can't Order Now... Please Clear your Cart First!!");
     }
-
     async function postMe(id) {
          let n =  await document.getElementById("searchf").value;
         console.log(n);
@@ -234,18 +230,10 @@
                 console.log(err);
             }
         });
-
     }
-
     var mybutton = document.getElementById("myBtn");
-
-
-
     // When the user scrolls down 20px from the top of the document, show the button
     window.onscroll = function () { scrollFunction() };
-
-
-
     function scrollFunction() {
         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
             mybutton.style.display = "block";
@@ -253,9 +241,6 @@
             mybutton.style.display = "none";
         }
     }
-
-
-
     // When the user clicks on the button, scroll to the top of the document
     // When the user clicks on the button, scroll to the top of the document
     function topFunction() {
@@ -263,5 +248,3 @@
         document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
     }
 </script>
-
-
