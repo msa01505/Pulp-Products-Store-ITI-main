@@ -17,7 +17,7 @@ namespace Pulp.Models
         [Required]
         public decimal Price { get; set; }
         [Required]
-        [Range(1, 10)]
+        [Range(1, 150)]
         public int Units { get; set; }
         //public decimal Total { set; get; }
         public int OrderID { set; get; }

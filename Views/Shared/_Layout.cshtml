@@ -23,36 +23,42 @@
              style=" border-top: 8px solid #7BB38E;padding:.2rem 1rem;">
             <div class="row">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/logo2.png" /></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="
+    position: absolute;
+    right: 0;
+    top: 30%;
+">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse  collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav  ml-2 col-lg-12">
+                    <ul class="navbar-nav  ml-5 mr-auto col-lg-9">
 
 
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Businesses" asp-action="Index">Products</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Reviews" asp-action="Index">Reviews</a>
-                        </li>
-                        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                        @if (!User.IsInRole("Fulfiller"))
                         {
                             <li class="nav-item">
-                                <a class="nav-link" asp-controller="Admin" asp-action="ListRoles">
-                                    Manage Roles
-                                </a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Businesses" asp-action="Index">Products</a>
                             </li>
                         }
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Reviews" asp-action="Index">Reviews</a>
+                            </li>
+                            @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Admin" asp-action="ListRoles">
+                                        Manage Roles
+                                    </a>
+                                </li>
+                            }
 
 
 
 
-                    </ul>
+                        </ul>
                     <partial name="_LoginPartial" />
                 </div>
             </div>
