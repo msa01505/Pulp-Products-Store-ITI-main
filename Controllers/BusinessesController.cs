@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -15,6 +16,7 @@ using Pulp.ViewModels;
 
 namespace Pulp.Controllers
 {
+    [Authorize(Roles ="Admin,Buyer")]
     public class BusinessesController : Controller
     {
         private readonly IBusinessRepoService businessRepository;
