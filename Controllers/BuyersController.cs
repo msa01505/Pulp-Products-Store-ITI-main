@@ -48,7 +48,7 @@ namespace Pulp.Controllers
                 return NotFound();
             }
 
-            var buyer = buyerRepoService.GetDetails(id);
+            Buyer buyer = buyerRepoService.GetDetails(id);
             if (buyer == null)
             {
                 return NotFound();
