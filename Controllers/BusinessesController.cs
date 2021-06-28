@@ -230,7 +230,7 @@ namespace Pulp.Controllers
                 // To make sure the file name is unique we are appending a new
                 // GUID value and and an underscore to the file name
                 //uniqueFileName = model.Name+"-"+model.Describtion.Replace(" ", string.Empty) + Path.GetExtension(model.Image.FileName);
-                uniqueFileName = "business" + "-" + model.BusinessID + Path.GetExtension(model.Image.FileName);
+                uniqueFileName = "business" + "-" + (model.Name.Replace(" ", "")) + Path.GetExtension(model.Image.FileName);
                 string filePath = Path.Combine(uploadsFolder, uniqueFileName);
                 // Use CopyTo() method provided by IFormFile interface to
                 // copy the file to wwwroot/images folder
