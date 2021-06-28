@@ -6,7 +6,7 @@
 }
 
 
-<div class="container">
+<div class="container mb-5">
     <div class="text-center mx-auto col-3 my-3">
 
         <input type="text" id="search" placeholder="Search  by buisnesse Name" class="form-control text-center" onkeyup="postMe()" />
@@ -64,7 +64,7 @@
                                 <div class="card-body">
 
                                     <h5 class="card-title text-center">@item.Name</h5>
-                                    <img src="@photoPath" asp-append-version="true" class="card-img-top img-fluid" alt="Pic" style="height:19em;width:20em;">
+                                    <img src="@photoPath" asp-append-version="true" class="card-img-top img-fluid" alt="Pic" style="height:10em;width:20em;">
 
                                     <p class="card-text text-center">@item.Describtion</p>
                                     @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))

@@ -9,20 +9,20 @@
 
 
 <div class="container">
-    <h1 class="text-center mt-3" style="color:#7BB38E">Cart</h1>
+    <h1 class="text-center my-5 font-weight-bolder " style="color:#7BB38E;font-size:40px; font-family:'Times New Roman', Times, serif">Cart</h1>
     @if (Model.Message != null)
     {
         if (Model.flag == 1)
         {
-<div class="alert alert-success alert-dismissible fade show" role="alert">
-    @Model.Message
-</div> }
-else if (Model.flag == 0)
-{
-<div class="alert alert-danger alert-dismissible fade show" role="alert">
-    @Model.Message
-</div>}
-}
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                @Model.Message
+            </div> }
+        else if (Model.flag == 0)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                @Model.Message
+            </div>}
+    }
     <div class="container-fluid">
         @{ List<Order> tempList = new List<Order>();}
         @if (User.Identity.IsAuthenticated && User.IsInRole("Fulfiller"))
@@ -36,131 +36,156 @@ else if (Model.flag == 0)
 
 
 
-        @if (tempList.Count < 0)
+        @if (User.Identity.IsAuthenticated && User.IsInRole("Buyer") && tempList.Count <= 0)
         {
-<div class="border rounded shadow text-center ">
-    <h1>Empty Cart</h1>
-    <p>Try Our Service and Order Now! </p>
-    <a class="btn btn-info" asp-action="Index" asp-controller="Businesses"></a>
-</div> }
-else
-{
-@foreach (var item in tempList)
-{
-
-
-
-<div class="m-3 col-7">
-
-
-
-
-    @foreach (var orderedItem in item.OrderItems)
-    {
-
-
-
-        var photoPath = "~/images/" + (orderedItem.ItemOrdered.PictureUri);
-<div class="row">
-    <div class="col-6">
-
-
-
-        <img alt="pic" src="@photoPath" asp-append-version="true" class="img-fluid" style="height:16em;width:22em;" />
-    </div>
-    <div class="col-6">
-        @if (item.orderStatus == OrderStatus.Approved)
+            <div class="border rounded shadow text-center py-5">
+                <h1 class="font-weight-bolder">Empty Cart</h1>
+                <p>Try Our Service and Order Now! </p>
+                <a class="btn btn-info" asp-action="Index" asp-controller="Businesses">Order</a>
+            </div> }
+        else if (User.Identity.IsAuthenticated && User.IsInRole("Fulfiller") && tempList.Count <= 0)
         {
-<div class="alert alert-success alert-dismissible fade show ">
-    Order Approved
-</div> }
-else if (item.orderStatus == OrderStatus.Cancled)
-{
-<div class="alert alert-danger alert-dismissible fade show ">
-    Order Cancle.. Please Check your Email !!
-</div> }
-else if (item.orderStatus == OrderStatus.Waiting)
-{
-<div class="alert alert-warning alert-dismissible fade show ">
-    Waiting For Approval......
-</div> }
-else if (item.orderStatus == OrderStatus.WaitingPayed)
-{
-<div class="alert alert-warning alert-dismissible fade show ">
-    Payment is Done .. Waiting for Address Confirmation
-</div> }
-else
-{
-<div class="alert alert-info alert-dismissible fade show ">
-    Please Confirm Order ......
-</div>}
-        <h3>@orderedItem.ItemOrdered.Name</h3>
-        <p>@orderedItem.ItemOrdered.Description</p>
-        <p>@orderedItem.Units <span>pieces</span></p>
-        <div>
-            @orderedItem.ItemOrdered.Price <span>E&pound;</span> For one
-            <p>
-                Total : @{decimal p = @orderedItem.Price;
-                    int u = orderedItem.Units;
-                    decimal res = p * u; } @res
-                </p>
-                <div class="row ml-1">
-                    @if (User.Identity.IsAuthenticated && !User.IsInRole("Fulfiller") && item.orderStatus != OrderStatus.Waiting && item.orderStatus != OrderStatus.WaitingPayed)
+            <div class="border rounded shadow text-center py-5">
+                <h1 class="font-weight-bolder">Empty Cart</h1>
+                <p>No cart items to be approved </p>
+                <a class="btn btn-info" href="/">Go back to Home</a>
+            </div> }
+        else
+        {
+            @foreach (var item in tempList)
+            {
+
+
+
+                <div class="m-3 mx-auto text-center">
+
+
+
+
+                    @foreach (var orderedItem in item.OrderItems)
                     {
-<a class="btn btn-danger col-5 my-1" asp-action="Delete" asp-controller="OrderItems" asp-route-id="@orderedItem.OrderItemID">Delete</a>}
+
+
+
+                        var photoPath = "~/images/" + (orderedItem.ItemOrdered.PictureUri);
+                        <div class="row">
+                            <div class="col-lg-4 col-sm-12  mx-auto">
+
+
+
+                                <img alt="pic" src="@photoPath" asp-append-version="true" class="img-fluid" style="height:16em;width:22em;" />
+                            </div>
+                            <div class="col-lg-6 col-sm-12 mx-auto">
+                                @if (item.orderStatus == OrderStatus.Approved)
+                                {
+                                    <div class="alert alert-success alert-dismissible fade show text-center">
+                                        Order Approved
+                                    </div> }
+                                else if (item.orderStatus == OrderStatus.Cancled)
+                                {
+                                    <div class="alert alert-danger alert-dismissible fade show text-center ">
+                                        Order Canceled.. Please Check your Email !!
+                                    </div> }
+                                else if (item.orderStatus == OrderStatus.Waiting)
+                                {
+                                    <div class="alert alert-warning alert-dismissible fade show text-center ">
+                                        Waiting For Approval......
+                                    </div> }
+                                else if (item.orderStatus == OrderStatus.WaitingPayed)
+                                {
+                                    <div class="alert alert-warning alert-dismissible fade show text-center">
+                                        Payment is Done .. Waiting for Address Confirmation
+                                    </div> }
+                                else
+                                {
+                                    <div class="alert alert-info alert-dismissible fade show text-center ">
+                                        Please Confirm Order ......
+                                    </div>}
+                                <h3>@orderedItem.ItemOrdered.Name</h3>
+                                <p>@orderedItem.ItemOrdered.Description</p>
+                                <p>
+                                    @orderedItem.Units
+                                    <span>pieces</span>
+                                </p>
+                                <div>
+                                    @orderedItem.ItemOrdered.Price
+                                    <span>E&pound;</span> For one
+                                    <p>
+                                        Total : @{decimal p = @orderedItem.Price;
+                                            int u = orderedItem.Units;
+                                            decimal res = p * u; } @res
+                                        </p>
+                                        <div class="row ml-1 mb-5">
+                                            @if (User.Identity.IsAuthenticated && !User.IsInRole("Fulfiller") && item.orderStatus != OrderStatus.Waiting && item.orderStatus != OrderStatus.WaitingPayed)
+                                            {
+                                                <a class="btn btn-danger col-5 my-1 mx-auto border border-danger" asp-action="Delete" asp-controller="OrderItems" asp-route-id="@orderedItem.OrderItemID">Delete</a>}
 
 
 
 
-                    @if (User.Identity.IsAuthenticated && User.IsInRole("Fulfiller"))
-                    {
-<a class="btn btn-danger col-5 my-2" asp-action="Delete" asp-controller="OrderItems" asp-route-id="@orderedItem.OrderItemID">Delete</a>
+                                            @if (User.Identity.IsAuthenticated && User.IsInRole("Fulfiller"))
+                                            {
+                                                <a class="btn btn-danger col-5 my-2 mx-auto" asp-action="Delete" asp-controller="OrderItems" asp-route-id="@orderedItem.OrderItemID">Delete</a>
 
 
 
-                            <a class="btn btn-warning col-8 text-light" asp-action="Details" asp-controller="Buyers" asp-route-id="@item.BuyerID" style="background-color:#7BB38E">Customer Details</a>
+                                                <a class="btn btn-success col-8 text-light mx-auto" asp-action="Details" asp-controller="Buyers" asp-route-id="@item.BuyerID" style="background-color:#7BB38E">Customer Details</a>
 
 
 
-                                                        <input type="button" onclick="postMe(@item.OrderID)" class="btn btn-warning col-8 mt-3 text-light" value="Approve Order" style="background-color:#7BB38E" />}
-                </div>
-
-
-
-
-            </div>
-        </div>
-    </div>}
+                                                <input type="button" onclick="postMe(@item.OrderID)" class="btn btn-success col-8 mt-3 text-light mx-auto" value="Approve Order" style="background-color:#7BB38E" />}
+                                       
+                                        </div>
 
 
 
 
-</div>}
-                @if (User.Identity.IsAuthenticated && !User.IsInRole("Fulfiller"))
+                                    </div>
+                                </div>
+                            </div>}
+
+
+
+
+                </div>}
+            @if (User.Identity.IsAuthenticated && !User.IsInRole("Fulfiller"))
+            {
+                @if (tempList.Count > 0)
                 {
-@if (tempList.Count > 0)
-{
-    if (Model.flag != 2)
-    {
-<div class="row">
-    <div class="col-5 m-auto my-1">
-    <p>Order: @Model.subTotal <span>E&pound;</span></p>
-    <p>Taxes: @Model.taxes <span>E&pound;</span></p>
-    <p>Delivery Fees : @Model.delivery <span>E&pound;</span></p>
-    <p>Total Price : @Model.total <span>E&pound;</span></p>
-    @*<a class="btn btn-info m-3 p-3" asp-action="Edit" asp-controller="Buyers" asp-route-id="@Model.BuyerID">Confirm Order </a>*@
-    <form method="get" asp-action="ConfirmOrder" asp-controller="Buyers" asp-route-id="@Model.BuyerID">
-        <input type="hidden" name="total" value="@Model.total" />
-        <input type="submit" class="btn btn-outline-success border border-success mb-5 text-light" value="Confirm order" style="        background-color: #7BB38E
-" />
+                    if (Model.flag != 2)
+                    {
+    <div class="row mx-auto text-center my-5 py-5" style="
+    border-top: green 1px dashed;
+">
+        <div class="col-5 m-auto my-1">
+            <p>
+                Order: @Model.subTotal
+                <span>E&pound;</span>
+            </p>
+            <p>
+                Taxes: @Model.taxes
+                <span>E&pound;</span>
+            </p>
+            <p>
+                Delivery Fees : @Model.delivery
+                <span>E&pound;</span>
+            </p>
+            <p>
+                Total Price : @Model.total
+                <span>E&pound;</span>
+            </p>
+            @*<a class="btn btn-info m-3 p-3" asp-action="Edit" asp-controller="Buyers" asp-route-id="@Model.BuyerID">Confirm Order </a>*@
+            <form method="get" asp-action="ConfirmOrder" asp-controller="Buyers" asp-route-id="@Model.BuyerID">
+                <input type="hidden" name="total" value="@Model.total" />
+                <input type="submit" class="btn btn-outline-success border border-success mb-5" value="Confirm order" />
 
 
 
-    </form>
-   </div>
-</div>
-        }
-}}}
+            </form>
+        </div>
+    </div>
+                    }
+                }}}
     </div>
 </div>
 <script>
