@@ -47,6 +47,22 @@ namespace Pulp.Controllers
         // GET: Pulps
         public async Task<IActionResult> Index()
         {
+            if (User.Identity.IsAuthenticated && User.IsInRole("Buyer"))
+            {
+                Buyer curr = buyerRepoService?.GetBuyerByUsername(UserManager.GetUserName(User));
+                var order = orderRepoService?.GetAllOrdersOfUserID(curr.UserID)?.FirstOrDefault(o => o.orderStatus == OrderStatus.Initial);
+                if (order == null)
+                    return View(businessRepository.GetAllBusinessess());
+                var categoryItemID = order?.OrderItems?.FirstOrDefault()?.CategoryItemID;
+                var categoryTypeID = categoryItemRepository?.GetAllCategoryItems()?.Where(o => o.CategoryItemID == categoryItemID)?.FirstOrDefault()?.CategoryTypeId;
+                var businessID = categoryTypeRepository?.GetBusinessID(categoryTypeID);
+
+              
+
+
+                return RedirectToAction("Details", "Businesses", new { id = businessID });
+
+            }
             return View(businessRepository.GetAllBusinessess());
         }
         [HttpPost]
