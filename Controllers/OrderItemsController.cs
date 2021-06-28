@@ -131,10 +131,10 @@ namespace Pulp.Controllers
                 //check in list for all items of this user with same type if exists instead of inserting add to the quantity
                 var userOrders= orderRepoService.GetAllOrdersOfUserID(currentBuyer.UserID);
                 Order waitingOrder = null;
-                bool foundOneWaitingOrder = false;
+                //bool foundOneWaitingOrder = false;
                 foreach(Order o in userOrders)
                 {
-                    if(o.orderStatus == OrderStatus.Waiting)
+                    if(o.orderStatus == OrderStatus.Initial)
                     {
                         waitingOrder = o;
                         //break;
@@ -142,7 +142,7 @@ namespace Pulp.Controllers
                 }
                 OrderItem previouslyExistingOrderItem = null;
 
-                foreach(OrderItem item in waitingOrder.OrderItems)
+                foreach(OrderItem item in waitingOrder?.OrderItems??new List<OrderItem>())
                 {
                     if(item.CategoryItemID == orderItem.CategoryItemID)
                     {
