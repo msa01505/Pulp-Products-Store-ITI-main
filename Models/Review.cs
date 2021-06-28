@@ -17,5 +17,15 @@ namespace Pulp.Models
         [MaxLength(500)]
         [Required]
         public string Comment { set; get; }
+
+        public virtual Buyer Buyer { get; set; }
+        [Required]
+
+        public int BuyerID { set; get; }
+
+
+
+
+
     }
 }

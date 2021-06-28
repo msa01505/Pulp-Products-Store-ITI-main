@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Pulp.Areas.Identity.Data;
+using Pulp.Services;
 
 namespace Pulp.Areas.Identity.Pages.Account.Manage
 {
@@ -14,13 +15,16 @@ namespace Pulp.Areas.Identity.Pages.Account.Manage
     {
         private readonly UserManager<PulpProjectUser> _userManager;
         private readonly SignInManager<PulpProjectUser> _signInManager;
+        private readonly IBuyerRepoService _buyerRepoService;
 
         public IndexModel(
             UserManager<PulpProjectUser> userManager,
-            SignInManager<PulpProjectUser> signInManager)
+            SignInManager<PulpProjectUser> signInManager,
+            IBuyerRepoService buyerRepoService )
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            _buyerRepoService = buyerRepoService;
         }
 
         public string Username { get; set; }
@@ -35,6 +39,7 @@ namespace Pulp.Areas.Identity.Pages.Account.Manage
         {
             [Phone]
             [Display(Name = "Phone number")]
+            [StringLength(11, ErrorMessage ="Please Enter a valid phone number")]
             public string PhoneNumber { get; set; }
         }
 
@@ -76,11 +81,19 @@ namespace Pulp.Areas.Identity.Pages.Account.Manage
                 await LoadAsync(user);
                 return Page();
             }
+           
+            //get current buyer by email
+            var buyer = _buyerRepoService.GetBuyerByUsername(user.Email);
 
             var phoneNumber = await _userManager.GetPhoneNumberAsync(user);
             if (Input.PhoneNumber != phoneNumber)
             {
                 var setPhoneResult = await _userManager.SetPhoneNumberAsync(user, Input.PhoneNumber);
+
+                //set phone number in buyers table 
+                buyer.PhoneNumber = Input.PhoneNumber;
+                _buyerRepoService.UpdateBuyer(buyer.UserID, buyer);
+
                 if (!setPhoneResult.Succeeded)
                 {
                     StatusMessage = "Unexpected error when trying to set phone number.";

@@ -14,7 +14,7 @@
                 <div asp-validation-summary="ModelOnly" class="text-danger text-center"></div>
                 <div class="col-6 m-auto shadow rounded-lg p-5">
                     <div class="form-group">
-                        <input asp-for="Rating" class="form-control" value="1" placeholder="Rating" />
+                        <input asp-for="Rating" class="form-control" value="1" placeholder="Rating" min="1" max="5"/>
                         <span asp-validation-for="Rating" class="text-danger"></span>
                     </div>
                     <div class="form-group">

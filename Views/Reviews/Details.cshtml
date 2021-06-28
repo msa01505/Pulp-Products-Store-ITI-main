@@ -27,9 +27,11 @@
             <dd>
 
                 <div class="m-auto text-center">
-                    <a asp-action="Edit" asp-route-id="@Model.ReviewID" class="btn btn-outline-success ">Edit</a> |
-
-                    <a asp-action="Index" class=" btn btn-outline-success" style="color:#7BB38E">Back to List</a>
+                    @if (ViewBag.currBuyer == Model.BuyerID)
+                    {
+                        <a asp-action="Edit" asp-route-id="@Model.ReviewID" class="btn btn-outline-success ">Edit</a>
+                    }
+                <a asp-action="Index" class=" btn btn-outline-success" style="color:#7BB38E">Back to List</a>
                 </div>
 
             </dd>

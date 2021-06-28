@@ -18,5 +18,8 @@ namespace Pulp.Models
         public Address Address { set; get; }
 
         public string PhoneNumber { get; set; }
+
+        public virtual ICollection<Review> Reviews{ get; set; }
+
     }
 }

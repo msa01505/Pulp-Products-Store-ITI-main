@@ -19,7 +19,7 @@
             <input type="hidden" asp-for="@Model.buyer.PictureUri" />
             <input type="hidden" asp-for="@Model.buyer.BirthDate" />
         </div>
-        <div class="my-5">
+        <div class="mt-5 mb-4">
             <label asp-for="@Model.paymentMethod"></label>
             <select class="mx-2" asp-for="@Model.paymentMethod" id="selectList" onchange="show()">
                 <option value="@PaymentMethodEnum.Cash">cash</option>
@@ -51,7 +51,7 @@
                 data-amount="@Model.total"
                 data-currency="egp">
         </script>
-
+        <br /><br />
     </form>
 
 </div>

@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Pulp.Areas.Identity.Data;
 using Pulp.Models;
 using Pulp.Services;
 
@@ -14,16 +16,25 @@ namespace Pulp.Controllers
     public class ReviewsController : Controller
     {
         private readonly IReviewRepoService reviewRepoService;
+        private readonly IBuyerRepoService buyerRepoService;
+        private readonly UserManager<PulpProjectUser> UserManager;
 
-        public ReviewsController(IReviewRepoService _reviewRepoService)
+
+        public ReviewsController(IReviewRepoService _reviewRepoService, IBuyerRepoService _buyerRepoService, UserManager<PulpProjectUser> _userManager)
         {
             reviewRepoService = _reviewRepoService;
+            buyerRepoService = _buyerRepoService;
+            UserManager = _userManager;
         }
 
         // GET: Reviews
-        [AllowAnonymous]
+        [Authorize(Roles ="Buyer")]
         public async Task<IActionResult> Index()
         {
+            Buyer curr = buyerRepoService.GetBuyerByUsername(UserManager.GetUserName(User));
+
+            ViewBag.currBuyer = curr.UserID;
+
             return View(reviewRepoService.GetAllReviews());
         }
 
@@ -32,6 +43,10 @@ namespace Pulp.Controllers
 
         public async Task<IActionResult> Details(int? id)
         {
+            Buyer curr = buyerRepoService.GetBuyerByUsername(UserManager.GetUserName(User));
+
+            ViewBag.currBuyer = curr.UserID;
+
             if (id == null)
             {
                 return NotFound();
@@ -51,6 +66,7 @@ namespace Pulp.Controllers
 
         public IActionResult Create()
         {
+            
             return View();
         }
 
@@ -61,10 +77,12 @@ namespace Pulp.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ReviewID,Rating,Comment")] Review review)
+        public async Task<IActionResult> Create([Bind("ReviewID,Rating,Comment,UserID")] Review review)
         {
             if (ModelState.IsValid)
             {
+                Buyer curr = buyerRepoService.GetBuyerByUsername(UserManager.GetUserName(User));
+                review.BuyerID = curr.UserID;
                 reviewRepoService.Insert(review);
                 return RedirectToAction(nameof(Index));
             }
@@ -76,13 +94,16 @@ namespace Pulp.Controllers
 
         public async Task<IActionResult> Edit(int? id)
         {
+           
             if (id == null)
             {
                 return NotFound();
             }
 
             var review = reviewRepoService.GetDetails(id);
-            if (review == null)
+            Buyer curr = buyerRepoService.GetBuyerByUsername(UserManager.GetUserName(User));
+
+            if (review == null || curr.UserID != review.BuyerID)
             {
                 return NotFound();
             }
@@ -98,7 +119,8 @@ namespace Pulp.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("ReviewID,Rating,Comment")] Review review)
         {
-            if (id != review.ReviewID)
+
+            if (id != review.ReviewID )
             {
                 return NotFound();
             }
@@ -136,7 +158,8 @@ namespace Pulp.Controllers
             }
 
             var review = reviewRepoService.GetDetails(id);
-            if (review == null)
+            Buyer curr = buyerRepoService.GetBuyerByUsername(UserManager.GetUserName(User));
+            if (review == null || curr.UserID != review.BuyerID)
             {
                 return NotFound();
             }

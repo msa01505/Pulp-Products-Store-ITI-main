@@ -5,15 +5,17 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 <div class="container-fluid">
-    <h1 style="color: #7BB38E" class="font-weight-bolder">Index</h1>
+   @* <h1 style="color: #7BB38E" class="font-weight-bolder">Index</h1>*@
 
+    <h1 class="btn col-12 m-auto font-weight-bold" style="color: #7BB38E;font-size:xx-large; font-family:'Times New Roman', Times, serif">Order List</h1>
+    <div class="row">
+        <div class="btn col-12 m-auto font-weight-bold">
+            <a class="btn mb-3 font-weight-bold" style="width: auto; background-color: #7BB38E; color: white;"
+               asp-action="Create">Create New Order</a>
+        </div>
+    </div>
 
-
-    <p>
-        <a asp-action="Create" style="color: #7BB38E" class="font-weight-bold">Create New Order</a>
-
-    </p>
-    <table class="table">
+    <table class="table col-10 m-auto">
         <thead>
             <tr>
                 <th>
@@ -42,8 +44,8 @@
                         @Html.DisplayFor(modelItem => item.Units)
                     </td>
                     <td>
-                        <a asp-action="Edit" asp-route-id="@item.OrderItemID" class="btn btn-outline-primary">Edit</a> 
-                        <a asp-action="Details" asp-route-id="@item.OrderItemID" class="btn btn-outline-success">Details</a> 
+                        <a asp-action="Edit" asp-route-id="@item.OrderItemID" class="btn btn-outline-primary btn-sm">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.OrderItemID" class="btn btn-outline-success btn-sm">Details</a> |
                         <a asp-action="Delete" asp-route-id="@item.OrderItemID" class="btn btn-outline-danger">Delete</a>
                     </td>
                 </tr>
