@@ -127,17 +127,52 @@ namespace Pulp.Controllers
             if (ModelState.IsValid)
             {
                 Buyer currentBuyer = buyerRepoService.GetBuyerByUsername(UserManager.GetUserName(User));
-                order.OrderID = 0;
-                order.BuyerID = currentBuyer.UserID;
-                order.OrderDate = DateTime.Now;
+
+                //check in list for all items of this user with same type if exists instead of inserting add to the quantity
+                var userOrders= orderRepoService.GetAllOrdersOfUserID(currentBuyer.UserID);
+                Order waitingOrder = null;
+                //bool foundOneWaitingOrder = false;
+                foreach(Order o in userOrders)
+                {
+                    if(o.orderStatus == OrderStatus.Initial)
+                    {
+                        waitingOrder = o;
+                        //break;
+                    }
+                }
+                OrderItem previouslyExistingOrderItem = null;
+
+                foreach(OrderItem item in waitingOrder?.OrderItems??new List<OrderItem>())
+                {
+                    if(item.CategoryItemID == orderItem.CategoryItemID)
+                    {
+                        previouslyExistingOrderItem = item;
+                    }
+                }
+                if (previouslyExistingOrderItem == null)
+                {
+
+                    order.OrderID = 0;
+                    order.BuyerID = currentBuyer.UserID;
+                    order.OrderDate = DateTime.Now;
 
 
 
-                order.orderStatus = OrderStatus.Initial;
-                int orderID = orderRepoService.Insert(order);
-                orderItem.OrderID = orderID;
-                orderItemsRepoService.Insert(orderItem);
 
+                    order.orderStatus = OrderStatus.Initial;
+                    int orderID = orderRepoService.Insert(order);
+                    orderItem.OrderID = orderID;
+                    orderItemsRepoService.Insert(orderItem);
+                   
+
+                }
+                else //instead of inserting order item and order we'll just edit the existing order item and update it in the db
+                {
+                    previouslyExistingOrderItem.Units += orderItem.Units;
+                    orderRepoService.UpdateOrder(waitingOrder.OrderID, waitingOrder);
+                    orderItemsRepoService.UpdateOrderItems(previouslyExistingOrderItem.OrderItemID,previouslyExistingOrderItem);
+                    
+                }
                 int? resID = categoryTypeRepoService.GetBusinessID(categoryItemsRepoService.GetDetails(orderItem.CategoryItemID).CategoryTypeId);
                 return RedirectToAction("Details", "Businesses", new { id = resID });
 
