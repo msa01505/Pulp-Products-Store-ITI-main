@@ -14,6 +14,8 @@ using Pulp.ViewModels;
 
 namespace Pulp.Controllers
 {
+
+    [Authorize(Roles = "Admin")]
     public class OrderItemsController : Controller
     {
         private readonly IOrderItemsRepoService orderItemsRepoService;
