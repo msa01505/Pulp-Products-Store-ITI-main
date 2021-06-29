@@ -200,6 +200,10 @@ namespace Pulp.Controllers
             {
                 return NotFound();
             }
+
+            
+
+
             int? resID = categoryTypeRepoService.GetBusinessID(categoryItemRepoService.GetDetails(id).CategoryTypeId);
             ViewData["ResID"] = resID;
 
@@ -212,6 +216,24 @@ namespace Pulp.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             int? resID = categoryTypeRepoService.GetBusinessID(categoryItemRepoService.GetDetails(id).CategoryTypeId);
+
+            var categoryItem = categoryItemRepoService.GetDetails(id);
+            if (categoryItem == null)
+            {
+                return NotFound();
+            }
+
+            //delete image of CategoryItem
+
+            var directory = Path.Combine(webHostEnvironment.WebRootPath, "images");
+            string[] filePaths = Directory.GetFiles(directory);
+            var img = Path.Combine(webHostEnvironment.WebRootPath, "images", categoryItem.Description.Replace(" ", string.Empty));
+            var imgPath = filePaths.Where(p => p.Contains(img)).FirstOrDefault();
+         
+            if (System.IO.File.Exists(imgPath))
+            {
+                System.IO.File.Delete(imgPath);
+            }
 
             categoryItemRepoService.DeleteCategoryItem(id);
 
