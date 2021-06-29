@@ -20,7 +20,7 @@ namespace Pulp.Areas.Identity.Pages.Account.Manage
         public IndexModel(
             UserManager<PulpProjectUser> userManager,
             SignInManager<PulpProjectUser> signInManager,
-            IBuyerRepoService buyerRepoService )
+            IBuyerRepoService buyerRepoService)
         {
             _userManager = userManager;
             _signInManager = signInManager;
@@ -39,7 +39,7 @@ namespace Pulp.Areas.Identity.Pages.Account.Manage
         {
             [Phone]
             [Display(Name = "Phone number")]
-            [StringLength(11, ErrorMessage ="Please Enter a valid phone number")]
+            [StringLength(11, ErrorMessage = "Please Enter a valid phone number")]
             public string PhoneNumber { get; set; }
         }
 
@@ -70,11 +70,16 @@ namespace Pulp.Areas.Identity.Pages.Account.Manage
 
         public async Task<IActionResult> OnPostAsync()
         {
+            if (!User.IsInRole("Buyer"))
+            {
+                return NotFound("Only Customers Can Provide Phone Number");
+            }
             var user = await _userManager.GetUserAsync(User);
             if (user == null)
             {
                 return NotFound($"Unable to load user with ID '{_userManager.GetUserId(User)}'.");
             }
+            
 
             if (!ModelState.IsValid)
             {
