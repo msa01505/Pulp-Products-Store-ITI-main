@@ -15,7 +15,7 @@ using Stripe;
 
 namespace Pulp.Controllers
 {
-    [Authorize(Roles ="Admin")]
+
     public class BuyersController : Controller
     {
         private readonly IBuyerRepoService buyerRepoService;
@@ -37,12 +37,16 @@ namespace Pulp.Controllers
         }
 
         // GET: Buyers
+        [Authorize(Roles = "Admin,Fulfiller")]
+
         public async Task<IActionResult> Index()
         {
             return View(buyerRepoService.GetAllBuyers());
         }
 
         // GET: Buyers/Details/5
+        [Authorize(Roles = "Admin,Fulfiller")]
+
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -60,6 +64,8 @@ namespace Pulp.Controllers
         }
 
         // GET: Buyers/Create
+        [Authorize(Roles = "Admin")]
+
         public IActionResult Create()
         {
             return View();
@@ -70,6 +76,8 @@ namespace Pulp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Create([Bind("UserID,Username,BirthDate,PictureUri")] Buyer buyer)
         {
             if (ModelState.IsValid)
@@ -82,7 +90,7 @@ namespace Pulp.Controllers
 
         // GET: Buyers/Edit/5
 
-
+        [Authorize(Roles ="Buyer")]
         public async Task<IActionResult> ConfirmOrder(int? id, decimal? total)
         {
             ConfirmOrder confirm = new ConfirmOrder();
@@ -103,6 +111,7 @@ namespace Pulp.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles="Buyer")]
         public IActionResult Confirm(ConfirmOrder confirm)
         {
             try
@@ -134,6 +143,7 @@ namespace Pulp.Controllers
 
         }
         [HttpPost]
+        [Authorize(Roles="Buyer")]
         public IActionResult Charge(string stripeEmail, string stripeToken, ConfirmOrder confirm)
         {
             try
@@ -190,6 +200,7 @@ namespace Pulp.Controllers
 
 
         }
+        [Authorize(Roles = "Admin")]
 
         public async Task<IActionResult> Edit(int? id)
         {
@@ -211,6 +222,8 @@ namespace Pulp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Edit(int id, [Bind("UserID,Username,BirthDate,PictureUri")] Buyer buyer)
         {
             if (id != buyer.UserID)
@@ -242,6 +255,8 @@ namespace Pulp.Controllers
 
 
         // GET: Buyers/Delete/5
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -261,12 +276,15 @@ namespace Pulp.Controllers
         // POST: Buyers/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Fulfiller")]
+
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             buyerRepoService.DeleteBuyer(id);
             return RedirectToAction(nameof(Index));
         }
 
+        [Authorize]
         private bool BuyerExists(int id)
         {
             return buyerRepoService.BuyerExists(id);
