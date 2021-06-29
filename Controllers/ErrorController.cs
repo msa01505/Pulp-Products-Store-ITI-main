@@ -17,6 +17,9 @@ namespace Pulp.Controllers
                 case 404:
                     ViewBag.ErrorMessage = "Sorry, the resource you requested could not be found";
                     break;
+                case 500:
+                    ViewBag.ErrorMessage = "Server Error, Please Contact your System Administrator";
+                    break;
             }
 
             return View("NotFound");

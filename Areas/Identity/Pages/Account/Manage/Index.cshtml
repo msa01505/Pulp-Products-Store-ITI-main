@@ -16,12 +16,15 @@
                 <label asp-for="Username" style="color:#7BB38E"></label>
                 <input asp-for="Username" class="form-control" disabled />
             </div>
+            @if (User.IsInRole("Buyer") && User.Identity.IsAuthenticated)
+            {
             <div class="form-group ">
                 <label asp-for="Input.PhoneNumber" style="        color: #7BB38E
 "></label>
                 <input asp-for="Input.PhoneNumber" class="form-control" />
                 <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
             </div>
+            }
             <button id="update-profile-button" type="submit" class="btn btn-primary col-12 text-center" style="background-color:#7BB38E">Save</button>
         </form>
     </div>
