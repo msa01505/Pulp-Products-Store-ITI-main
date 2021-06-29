@@ -15,7 +15,7 @@ using Pulp.ViewModels;
 namespace Pulp.Controllers
 {
 
-    [Authorize(Roles = "Admin")]
+    
     public class OrderItemsController : Controller
     {
         private readonly IOrderItemsRepoService orderItemsRepoService;
@@ -44,6 +44,7 @@ namespace Pulp.Controllers
 
         // GET: OrderItems
 
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Index()
         {
 
