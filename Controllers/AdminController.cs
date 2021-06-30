@@ -213,9 +213,9 @@ namespace Pulp.Controllers
                 Id = role.Id,
                 RoleName = role.Name
             };
-
+            var userList = userManager.Users.ToList();
             // Retrieve all the Users
-            foreach (var user in userManager.Users)
+            foreach (var user in userList)
             {
                 // If the user is in this role, add the username to
                 // Users property of EditRoleViewModel. This model
@@ -276,7 +276,8 @@ namespace Pulp.Controllers
 
             var model = new List<UserRoleViewModel>();
 
-            foreach (var user in userManager.Users)
+            var userList = userManager.Users.ToList();
+            foreach (var user in userList)
             {
                 var userRoleViewModel = new UserRoleViewModel
                 {

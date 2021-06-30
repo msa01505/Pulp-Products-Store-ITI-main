@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/pulp-iti/databases/PulpIdentity",
+      "type": "mssql.azure",
+      "connectionId": "PulpProjectContextConnection",
+      "secretStore": "AzureAppSettings"
+    },
+    "mssql2": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/pulp-iti/databases/PulpDB",
+      "type": "mssql.azure",
+      "connectionId": "MyConn",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

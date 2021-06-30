@@ -132,8 +132,10 @@ namespace Pulp.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     result = await _userManager.AddLoginAsync(user, info);
+                   
                     if (result.Succeeded)
                     {
+                        await _userManager.AddToRoleAsync(user, "Buyer");
                         _logger.LogInformation("User created an account using {Name} provider.", info.LoginProvider);
 
                         var userId = await _userManager.GetUserIdAsync(user);
